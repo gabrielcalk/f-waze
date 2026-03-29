@@ -1,5 +1,0 @@
-/Users/gabrielcavalcante/Desktop/college/cop3530/project2/f-waze/build/CMakeFiles/fwaze.dir
-/Users/gabrielcavalcante/Desktop/college/cop3530/project2/f-waze/build/CMakeFiles/edit_cache.dir
-/Users/gabrielcavalcante/Desktop/college/cop3530/project2/f-waze/build/CMakeFiles/rebuild_cache.dir
-/Users/gabrielcavalcante/Desktop/college/cop3530/project2/f-waze/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
-/Users/gabrielcavalcante/Desktop/college/cop3530/project2/f-waze/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
